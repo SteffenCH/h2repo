@@ -1,0 +1,5 @@
+/home/sbc-pc/testproject/testproject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sbc-pc/testproject/testproject/bin/Debug/testproject.exe.mdb
+/home/sbc-pc/testproject/testproject/bin/Debug/testproject.exe
+/home/sbc-pc/testproject/testproject/obj/x86/Debug/testproject.exe
+/home/sbc-pc/testproject/testproject/obj/x86/Debug/testproject.exe.mdb
